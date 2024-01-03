@@ -77,8 +77,6 @@ You can train models with various modalities and variants by modifying ```run_tr
 
 ### Testing
 HOT2022/HOT2023\
-These two benchmarks are evaluated using H. \
-
 ```
 python test.py
 ```
