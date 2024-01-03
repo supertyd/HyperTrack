@@ -13,7 +13,7 @@ A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracki
 - HyperTrack has high performance on hyperspectal tracking tasks.
 
 - A single model cross three kinds of hyperspectral images.
-
+<center><img width="90%" alt="" src="tracking/network_arch.jpg"/></center>
 
 
 ## Results
