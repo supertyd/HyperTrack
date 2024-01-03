@@ -68,7 +68,7 @@ You can also modify paths by these two files:
 ```
 
 ### Training
-Dowmload the pretrained [foundation model](https://drive.google.com/drive/folders/1wyeIs3ytYkmAtTXoVlLMkJ4aSTq5CBHq) (Mixformer) 
+Download the pretrained [foundation model](https://drive.google.com/drive/folders/1wyeIs3ytYkmAtTXoVlLMkJ4aSTq5CBHq) (Mixformer) 
 and put it under ./pretrained_networks/.
 ```
 python run_training.py
@@ -76,7 +76,7 @@ python run_training.py
 You can train models with various modalities and variants by modifying ```run_train.py```.
 
 ### Testing
-HOT2022/HOT2023\
+[HOT2022/HOT2023](https://www.sciencedirect.com/science/article/pii/S016516842300107X?dgcid=raven_sd_recommender_email)
 ```
 python test.py
 ```
