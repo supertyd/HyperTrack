@@ -76,7 +76,7 @@ python run_training.py
 You can train models with various modalities and variants by modifying ```run_train.py```.
 
 ### Testing
-[HOT2022/HOT2023](https://www.sciencedirect.com/science/article/pii/S016516842300107X?dgcid=raven_sd_recommender_email)
+[HOT2022/HOT2023](https://www.hsitracking.com/)
 ```
 python test.py
 ```
