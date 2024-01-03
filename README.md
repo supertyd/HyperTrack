@@ -1,4 +1,4 @@
-# HyperTrack： a unified framework for hyperspectral object tracking
+# HyperTrack：A Unified Framework for Hyperspectral Object Tracking
 Official implementation of HyperTrack, including models and training&testing codes.
 
 
