@@ -32,7 +32,7 @@ def parse_args():
 def main():
     args = parse_args()
     if args.mode == "single":
-        train_cmd = "python /home/ubuntu/Downloads/hypertrack/lib/train/run_training.py --script %s --config %s --save_dir %s --use_lmdb %d " \
+        train_cmd = "python lib/train/run_training.py --script %s --config %s --save_dir %s --use_lmdb %d " \
                     "--script_prv %s --config_prv %s --distill %d --script_teacher %s --config_teacher %s --stage1_model %s" \
                     % (args.script, args.config, args.save_dir, args.use_lmdb, args.script_prv, args.config_prv,
                        args.distill, args.script_teacher, args.config_teacher, args.stage1_model)
